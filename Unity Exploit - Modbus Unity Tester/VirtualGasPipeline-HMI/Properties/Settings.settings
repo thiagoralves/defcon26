@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VirtualGasPipeline_HMI.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Station1_ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.171.139</Value>
+    </Setting>
+    <Setting Name="Station2_ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.171.140</Value>
+    </Setting>
+    <Setting Name="Station3_ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.171.141</Value>
+    </Setting>
+    <Setting Name="Station4_ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.171.142</Value>
+    </Setting>
+    <Setting Name="Station5_ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.171.143</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

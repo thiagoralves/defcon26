@@ -1,0 +1,1 @@
+This arduino code was used to interface the analog temperature sensor with both Micrologix 1400 and Schneider M221 PLCs. As none of them have analog inputs built-in, an arduino was used to read the sensor and bitbang the data in parallel to the digital input ports of the PLCs

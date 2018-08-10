@@ -1,0 +1,1 @@
+ScadaBR HMI files. Import the JSON at the ScadaBR import/export menu (just copy and paste the JSON contents to the window and hit import). Then edit the graphical screens to upload the background picture for each one.
